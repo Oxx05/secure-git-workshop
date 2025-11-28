@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: config.ini
+  checksum: c698f6386d8b42e3cc0c2dd5e6854d47863778cd0669806830d458505cc0a2ba
+- filename: .github/workflows/api-scanning.yml
+  checksum: 4442f44d747971c6a6dcf0488fa5b6063de30f67bf91a605983671d7ccbc1f43
+version: "1.0"
+
